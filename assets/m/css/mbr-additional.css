@@ -771,7 +771,7 @@ a {
 }
 .cid-sp141cDNJu .mbr-overlay {
   background: #fafafa;
-  opacity: 0.6;
+  opacity: 0;
 }
 .cid-sp141cDNJu img,
 .cid-sp141cDNJu .item-img {
@@ -816,7 +816,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sp141cDNJu .mbr-section-title {
-  color: #232323;
+  color: #fafafa;
 }
 .cid-sp141cDNJu .mbr-text,
 .cid-sp141cDNJu .mbr-section-btn {
